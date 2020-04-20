@@ -81,6 +81,25 @@ code{
 .btn.btn-primary{
   color: white;
   background-color: #7951b3;
+
+}
+
+.btn.btn-lg:hover{
+  color: #7951b3;
+  background-color: #d8c0fa;
+
+}
+
+.btn.download{
+  color: #7951b3;
+  background-color: #d8c0fa;
+
+}
+
+.btn.download:hover{
+  color: #ffff;
+  background-color: #7951b3;
+
 }
 
 .fab{
