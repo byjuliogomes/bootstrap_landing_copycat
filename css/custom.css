@@ -81,6 +81,7 @@ code{
 .btn.btn-primary{
   color: white;
   background-color: #7951b3;
+  align-items: center;
 
 }
 
@@ -104,4 +105,9 @@ code{
 
 .fab{
   color: #DDD3EC;
+}
+
+.fas{
+  color: #7951b3;
+  margin: 5px;
 }
