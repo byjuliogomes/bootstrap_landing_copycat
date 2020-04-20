@@ -72,7 +72,7 @@ body {
 
 code{
   color: #7951b3;
-  overflow-x: scroll;
+  max-width: 200px;
 }
 
 .language-sh::before{
@@ -116,4 +116,11 @@ code{
 .row.mx-n2{
   display: inline-block;
   width: 350px;
+}
+
+.overflow {
+  max-height: 150xp;
+  overflow-x: scroll;
+  white-space: nowrap;
+  overflow-X:  auto;
 }
