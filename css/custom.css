@@ -120,7 +120,7 @@ code{
 
 .overflow {
   max-height: 150xp;
-  overflow-x: scroll;
+  overflow-x: auto;
   white-space: nowrap;
   overflow-X:  auto;
 }
