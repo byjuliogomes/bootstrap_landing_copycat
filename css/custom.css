@@ -3,6 +3,7 @@
  */
 body {
   padding-top: 56px;
+  text-align: center;
 }
 
 .carousel-item {
@@ -110,4 +111,9 @@ code{
 .fas{
   color: #7951b3;
   margin: 5px;
+}
+
+.row.mx-n2{
+  display: inline-block;
+  width: 350px;
 }
